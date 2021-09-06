@@ -1,0 +1,11 @@
+p{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+
+div.container{
+    background-color:blanchedalmond;
+    width: auto;
+    height: 800px;
+}
